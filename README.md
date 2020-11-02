@@ -8,6 +8,7 @@ To get this setup to work properly on your Linux desktop, you'll need to install
 * ffmpeg
 * pulseaudio
 * pavucontrol
+* network-manager
 * mumble
 * murmurd
 * v4l2loopback from this github: <a href="https://github.com/umlaeute/v4l2loopback" target="_blank">umlaeute/v4l2loopback</a>   
