@@ -21,7 +21,7 @@ The aim of this setup is to create (one and for all) a virtual webcam and a virt
 2. Once done, you can install on your phone an **IP Camera App**.   
 I suggest you <a href="https://play.google.com/store/apps/details?id=com.pas.webcam" target="_blank">IP Webcam for Android</a> or <a href="https://play.google.com/store/apps/details?id=com.pas.webcam" target="_blank">YouIPCams for iPhone</a>.   
 
-After that you can create a virtual microphone as described in [NapoleonWils0n's github guide](https://github.com/NapoleonWils0n/cerberus/blob/master/pulseaudio/virtual-mic.org).   
+After that you can create a **virtual microphone** as described in [NapoleonWils0n's github guide](https://github.com/NapoleonWils0n/cerberus/blob/master/pulseaudio/virtual-mic.org).   
 Here's an ultra-newbie version of that same guide:
 1. open terminal
 2. run    
