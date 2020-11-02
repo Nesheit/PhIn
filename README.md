@@ -16,7 +16,7 @@ And you'll have to then configure the murmurd server, for our purpose there's an
 
 ## 1st Step: Creating Virtual Interfaces
 
-The aim of this setup is to create a virtual webcam and a virtual microphone to which redirect the data sent over LAN by your phone.     
+The aim of this setup is to create (one and for all) a virtual webcam and a virtual microphone to which redirect the data sent over LAN by your phone.     
 1. To create the **virtual webcam**, start by following all the <a href="https://github.com/umlaeute/v4l2loopback" target="_blank">v4l2loopback</a> guide about getting it installed.  
 2. Once done, you can install on your phone an **IP Camera App**.   
 I suggest you <a href="https://play.google.com/store/apps/details?id=com.pas.webcam" target="_blank">IP Webcam for Android</a> or <a href="https://play.google.com/store/apps/details?id=com.pas.webcam" target="_blank">YouIPCams for iPhone</a>.   
