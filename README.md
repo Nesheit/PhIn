@@ -6,6 +6,7 @@ PhIn, the Ph(one)In(put) setup to use your phone as a webcam and/or microphone f
 
 To get this setup to work properly on your Linux desktop, you'll need to install:
 * ffmpeg
+* pulseaudio
 * pavucontrol
 * mumble
 * murmurd
