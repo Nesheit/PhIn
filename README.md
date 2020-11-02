@@ -37,17 +37,17 @@ Here's an ultra-newbie version of that same guide:
     
        nano ~/.config/pulse/default.pa
 6. then copy the following code:\# include the default.pa pulseaudio config file   
-> .include /etc/pulse/default.pa   
->    
-> \# null sink   
-> .ifexists module-null-sink.so   
-> load-module module-null-sink sink_name=Source   
-> .endif   
->    
-> \# virtual source   
-> .ifexists module-virtual-source.so   
-> load-module module-virtual-source source_name=VirtualMic master=Source.monitor   
-> .endif   
+   > .include /etc/pulse/default.pa   
+   >    
+   > \# null sink   
+   > .ifexists module-null-sink.so   
+   > load-module module-null-sink sink_name=Source   
+   > .endif   
+   >    
+   > \# virtual source   
+   > .ifexists module-virtual-source.so   
+   > load-module module-virtual-source source_name=VirtualMic master=Source.monitor   
+   > .endif   
 7. then <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>V</kbd> in the terminal window
 8. then <kbd>ctrl</kbd> + <kbd>O</kbd> in the terminal window
 9. then <kbd>Enter</kbd> 
