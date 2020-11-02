@@ -88,7 +88,7 @@ And, on the phone, you'll have to enable the rtsp mode and set a name and a pass
 ### Audio to Virtual Microphone
    
 Now you can also redirect the audio from the Mumble chat to your Virtual Microphone:
-1. open terminal and navigate too the mic_over_mumble folder you previously downloaded from github
+1. open terminal and navigate to the mic_over_mumble folder you previously downloaded from github
 2. launch    
     
        ./mic_over_mumble
