@@ -38,7 +38,8 @@ Here's an ultra-newbie version of that same guide:
 5. then run    
     
        nano ~/.config/pulse/default.pa
-6. then copy the following code:\# include the default.pa pulseaudio config file   
+6. then copy the following code:
+   > \# include the default.pa pulseaudio config file   
    > .include /etc/pulse/default.pa   
    >    
    > \# null sink   
